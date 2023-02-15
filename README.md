@@ -6,6 +6,6 @@ The following link contains the dataset for the above journal article. Due to th
 
 The file contains the datasete used to generate the Keras-MLP model as reported in the above article. Compounds were labeled as active or inactive. There are two datasets:
 
-Dataset 1 - Compounds labeled as active based on reported bioactivity (IC50/Ki/Kd values) of ≤ 10 µM.
+- Dataset 1 - Compounds labeled as active based on reported bioactivity (IC50/Ki/Kd values) of ≤ 10 µM.
 
-Dataset 2 - Compounds labeled as active based on reported bioactivity (IC50/Ki/Kd values) of ≤ 1 µM. Compounds with reported bioactivity within 1-10 µM were removed. 
+- Dataset 2 - Compounds labeled as active based on reported bioactivity (IC50/Ki/Kd values) of ≤ 1 µM. Compounds with reported bioactivity within 1-10 µM were removed. 
