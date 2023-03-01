@@ -2,7 +2,7 @@
 
 Journal Article
 
-The following link contains the dataset for the above journal article. Due to the size of the file (~200 mb), it was unable to upload to this GitHub repository. As a work around, the dataset has been uploaded to a Google Drive with the following link: https://bit.ly/3RYQYmu
+The following link contains the dataset for the above journal article. Due to the size of the datasets, it has been seaparated to fit the Github file limits. Additionally, the datasets can be downlooaded from a Google Drive with the following link: https://bit.ly/3RYQYmu
 
 The file contains the datasete used to generate the Keras-MLP model as reported in the above article. Compounds were labeled as active or inactive. There are two datasets:
 
