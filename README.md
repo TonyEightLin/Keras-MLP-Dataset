@@ -1,6 +1,6 @@
 # Keras-MLP-Dataset
 
-Journal Article: **Establishment of extensive artificial intelligence models for kinase inhibitor prediction: identification of novel PDGFRB inhibitors**
+Journal Article: [**Establishment of extensive artificial intelligence models for kinase inhibitor prediction: identification of novel PDGFRB inhibitors**](https://doi.org/10.1016/j.compbiomed.2023.106722)
 
 The following link contains the dataset for the above journal article. Due to the size of the datasets, it has been separated and zipped into individual .csv files to fit the Github size limit. Additionally, the datasets can be downlooaded from a Google Drive with the following link: https://bit.ly/3RYQYmu
 
